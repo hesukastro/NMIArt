@@ -1,0 +1,179 @@
+body{
+    background: #f6f6f6;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+body::-webkit-scrollbar{
+    background: #eee;
+    width: 10px;
+}
+  
+body::-webkit-scrollbar-thumb{
+    background: #000;
+}
+
+textarea{
+    overflow: hidden;
+    overflow-y: auto;
+    resize: none;
+}
+
+.art-display img{
+    margin: 20px 0 20px 0;
+}
+
+.btn-dark{
+    background: #000;
+    color: #fff;;
+}
+
+.btn-dark:hover{
+    background: #262626;
+    color: #fff;
+}
+
+.center{
+    text-align: center;
+}
+
+.fixed{
+    position: fixed;
+}
+
+.fixed-bot-right{
+    bottom: 20px;
+    position: fixed;
+    right: 20px;
+}
+
+.img-ver-responsive{
+    height: 50px;
+}
+
+.img-long{
+    height: 450px !important;
+    object-fit: cover;
+    width: 100%;
+}
+
+.item img{
+  object-fit: cover;
+}
+
+.justified{
+    text-align: justify;
+}
+
+.map{
+    min-height: 400px;
+    width: 100%;
+    position: relative;
+}
+
+.mar-remove{
+    margin: 0 !important;
+}
+
+.mar-bot-md{
+    margin-bottom: 20px;
+}
+
+.mar-bot-lg{
+    margin-bottom: 40px;
+}
+
+.mar-top-sm{
+    margin-top: 10px;
+}
+
+.mar-top-md{
+    margin-top: 20px;
+}
+
+.mar-top-lg{
+    margin-top: 40px;
+}
+
+.mar-top-xl{
+    margin-top: 80px;
+}
+
+.max-height-650{
+    max-height: 650px;
+}
+
+.navbar{
+    background: #000;
+    box-shadow: 0 0 10px #000;
+    z-index: 99;
+}
+
+.nav-tabs a{
+    color: #9d9d9d;
+}
+
+.navbar-inverse{
+    background: #000;
+}
+
+.pad-remove{
+    padding: 0 !important;
+}
+
+.pad-left-xs{
+    padding-left: 5px !important;
+}
+
+.pad-right-xs{
+    padding-right: 5px !important;
+}
+
+.row{
+    margin: 20px 0 20px 0;
+}
+
+.sidebar{
+    height: 100%;
+    box-shadow: 0 0 20px #000;
+    position: fixed;
+    z-index: 99;
+}
+
+.sidebar .nav li{
+    text-align: center;
+}
+
+.sidebar .nav li a, .sidebar .nav li a:active{
+    background: #000;
+    color: #9d9d9d;
+}
+
+.sidebar .nav li a:hover{
+    background: #000;
+    color: #fff;
+}
+
+.thumbnail{
+    border: none;
+    font-size: 1.0em;
+    margin: 10px auto;
+    padding: 0;
+    text-align: center;
+    width: 80%;
+}
+
+.thumbnail p{
+    margin: 0;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
