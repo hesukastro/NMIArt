@@ -48,6 +48,18 @@ textarea{
     right: 20px;
 }
 
+.icon{
+    height: 32px;
+}
+
+.icon-group{
+    text-align: center;
+}
+
+.icon-text{
+    font-size: 1.5em;
+}
+
 .img-ver-responsive{
     height: 50px;
 }
