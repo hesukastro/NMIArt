@@ -1,5 +1,11 @@
+<?php include 'phpscripts/dbcon.php';
+      $id = $_GET['id'];
+      $artwork = getArtwork($id);
+      $showcases = getShowcases($artwork['name']);
+?>
 <html>
 <head>
+    <base href="/" />
     <title>NMI Gallery</title>
     <!-- Site-wide dependencies -->
     <?php include 'templates/dependencies.php' ?>
@@ -13,15 +19,19 @@
             <!-- Right side -->
             <!-- There is a bug for the affix plugin included in Bootstrap v3
                  this section is a workaround for that -->
-            <div class="col-xs-12 visible-xs visible-sm">
-                <h1 class="mar-bot-lg center">Afternoon</h1>
-                <p>Real butterflies (cruelty free), fresh flowers, acrylic paint, holographic confetti, glitter, magic + universal love energies. Painted with rose quartz infused water.
+            <div class="col-xs-10 col-xs-offset-1 visible-xs visible-sm">
+                <h1 class="mar-bot-lg center"><?php echo $artwork['name']; ?></h1>
+                <p><?php echo $artwork['caption']; ?>
             </div>
 
             <!-- Left side -->
-            <div class="art-display col-xs-12 col-md-7 col-md-offset-1">
-                <img class="img-rounded pad-left-xs pad-right-xs mar-top-sm col-sm-12 img-responsive" src="images/art/4x4/art1.png">
-                <img class="img-rounded pad-left-xs pad-right-xs mar-top-sm col-sm-12 img-responsive" src="images/art/4x4/art1.png">
+            <div class="art-display col-xs-12 col-md-6 col-md-offset-1">
+                <?php echo '<img class="img-rounded pad-left-xs pad-right-xs mar-top-sm col-sm-12 img-responsive" src="images/art/'.$artwork['size'].'/'.$artwork['name'].'.png">' ?>
+                <?php
+                    foreach ($showcases as $showcase) {
+                        echo '<img class="' .$showcase['class']. '" src="images/art/showcases/' .$artwork['name']. '_' .$showcase['id']. '">';
+                    }
+                ?>
             </div>
 
             <!-- Right side -->
@@ -33,9 +43,9 @@
             
             <!-- Right side -->
             <div class="col-md-4 visible-md visible-lg">
-                <div class="col-md-2 fixed">
-                    <h1 class="mar-bot-lg center">Afternoon</h1>
-                    <p>Real butterflies (cruelty free), fresh flowers, acrylic paint, holographic confetti, glitter, magic + universal love energies. Painted with rose quartz infused water.
+                <div class="col-md-3 fixed">
+                    <h1 class="mar-bot-lg center"><?php echo $artwork['name']; ?></h1>
+                    <p><?php echo $artwork['caption']; ?>
                 </div>
             </div>
 

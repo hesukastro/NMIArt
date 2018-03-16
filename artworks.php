@@ -24,11 +24,10 @@
             <div class="col-xs-12 col-md-10 col-md-offset-1 mar-bot-md">
                 <div class="tab-content">
                     <div id="fourx4" class="tab-pane fade in active">
-                        <h2>4x4</h2>
                         <div class="col-xs-12 col-sm-6 col-md-4">
                             <div class="thumbnail">
-                                <a href="art.php">
-                                    <img class="img-responsive" src="images/art/4x4/art1.png">
+                                <a href="art.php?id=1">
+                                    <img class="img-responsive" src="images/art/4x4/Afternoon.png">
                                     <div class="caption">
                                         <p><strong>Afternoon</strong>
                                     </div>
@@ -38,8 +37,8 @@
 
                         <div class="col-xs-12 col-sm-6 col-md-4">
                             <div class="thumbnail">
-                                <a href="#">
-                                    <img class="img-responsive" src="images/art/4x4/art2.png">
+                                <a href="art.php?id=2">
+                                    <img class="img-responsive" src="images/art/4x4/Almost Here.png">
                                     <div class="caption">
                                         <p><strong>Almost Here</strong>
                                     </div>
@@ -52,8 +51,8 @@
 
                         <div class="col-xs-12 col-sm-6 col-md-4">
                             <div class="thumbnail">
-                                <a href="#">
-                                    <img class="img-responsive" src="images/art/4x4/art4.png">
+                                <a href="art.php?id=3">
+                                    <img class="img-responsive" src="images/art/4x4/Winter of Our Youth.png">
                                     <div class="caption">
                                         <p><strong>Winter of Our Youth</strong>
                                     </div>
@@ -63,8 +62,8 @@
 
                         <div class="col-xs-12 col-sm-6 col-md-4">
                             <div class="thumbnail">
-                                <a href="#">
-                                    <img class="img-responsive" src="images/art/4x4/cult.png">
+                                <a href="art.php?id=4">
+                                    <img class="img-responsive" src="images/art/4x4/Cult.png">
                                     <div class="caption">
                                         <p><strong>Cult</strong>
                                     </div>
@@ -74,8 +73,8 @@
 
                         <div class="col-xs-12 col-sm-6 col-md-4">
                             <div class="thumbnail">
-                                <a href="#">
-                                    <img class="img-responsive" src="images/art/4x4/me.png">
+                                <a href="art.php?id=5">
+                                    <img class="img-responsive" src="images/art/4x4/Me.png">
                                     <div class="caption">
                                         <p><strong>Me</strong>
                                     </div>
@@ -85,8 +84,8 @@
 
                         <div class="col-xs-12 col-sm-6 col-md-4">
                             <div class="thumbnail">
-                                <a href="#">
-                                    <img class="img-responsive" src="images/art/4x4/theBalladOfMeAndMyBrain.png">
+                                <a href="art.php?id=6">
+                                    <img class="img-responsive" src="images/art/4x4/The Ballad of Me And My Brain.png">
                                     <div class="caption">
                                         <p><strong>The Ballad of Me And My Brain</strong>
                                     </div>
@@ -96,8 +95,8 @@
 
                         <div class="col-xs-12 col-sm-6 col-md-4">
                             <div class="thumbnail">
-                                <a href="#">
-                                    <img class="img-responsive" src="images/art/4x4/theIceIsGettingThinner.png">
+                                <a href="art.php?id=7">
+                                    <img class="img-responsive" src="images/art/4x4/The Ice Is Getting Thinner.png">
                                     <div class="caption">
                                         <p><strong>The Ice Is Getting Thinner</strong>
                                     </div>
@@ -107,8 +106,8 @@
 
                         <div class="col-xs-12 col-sm-6 col-md-4">
                             <div class="thumbnail">
-                                <a href="#">
-                                    <img class="img-responsive" src="images/art/4x4/theSound.png">
+                                <a href="art.php?id=8">
+                                    <img class="img-responsive" src="images/art/4x4/The Sound.png">
                                     <div class="caption">
                                         <p><strong>The Sound</strong>
                                     </div>
@@ -118,8 +117,8 @@
 
                         <div class="col-xs-12 col-sm-6 col-md-4">
                             <div class="thumbnail">
-                                <a href="#">
-                                    <img class="img-responsive" src="images/art/4x4/you.png">
+                                <a href="art.php?id=9">
+                                    <img class="img-responsive" src="images/art/4x4/You.png">
                                     <div class="caption">
                                         <p><strong>You</strong>
                                     </div>
@@ -129,10 +128,9 @@
                     </div> <!-- End of 4x4 tab -->
 
                     <div id="fourx6" class="tab-pane fade">
-                        <h2>4x6</h2>
                         <div class="col-xs-12 col-sm-6 col-md-4">
                             <div class="thumbnail">
-                                <a href="mural.php">
+                                <a href="mural.php?id=10">
                                     <div id="car-gallery" class="carousel slide carousel-fade" data-ride="carousel">
                                         <!-- Indicators -->
                                         <ol class="carousel-indicators">
@@ -166,8 +164,8 @@
 
                         <div class="col-xs-12 col-sm-6 col-md-4">
                             <div class="thumbnail">
-                                <a href="art.php">
-                                    <img class="img-responsive" src="images/art/4x6/candlxs.png">
+                                <a href="art.php?id=11">
+                                    <img class="img-responsive" src="images/art/4x6/Candlxs.png">
                                     <div class="caption">
                                         <p><strong>Candlxs</strong>
                                     </div>
@@ -177,8 +175,8 @@
 
                         <div class="col-xs-12 col-sm-6 col-md-4">
                             <div class="thumbnail">
-                                <a href="art.php">
-                                    <img class="img-responsive" src="images/art/4x6/weLookedLikeGiants.png">
+                                <a href="art.php?id=12">
+                                    <img class="img-responsive" src="images/art/4x6/We Looked Like Giants.png">
                                     <div class="caption">
                                         <p><strong>We Looked Like Giants</strong>
                                     </div>
@@ -188,11 +186,10 @@
                     </div> <!-- End of 4x6 tab -->
 
                     <div id="sixx4" class="tab-pane fade">
-                        <h2>6x4</h2>
                         <div class="col-xs-12 col-sm-6 col-md-6">
                             <div class="thumbnail">
-                                <a href="art.php">
-                                    <img class="img-responsive" src="images/art/6x4/aWorldAlone.png">
+                                <a href="art.php?id=13">
+                                    <img class="img-responsive" src="images/art/6x4/A World Alone.png">
                                     <div class="caption">
                                         <p><strong>A World Alone</strong>
                                     </div>
@@ -202,8 +199,8 @@
 
                         <div class="col-xs-12 col-sm-6 col-md-6">
                             <div class="thumbnail">
-                                <a href="art.php">
-                                    <img class="img-responsive" src="images/art/6x4/backToTheWoods.png">
+                                <a href="art.php?id=14">
+                                    <img class="img-responsive" src="images/art/6x4/Back To The Woods.png">
                                     <div class="caption">
                                         <p><strong>Back to The Woods</strong>
                                     </div>
@@ -213,8 +210,8 @@
 
                         <div class="col-xs-12 col-sm-6 col-md-6">
                             <div class="thumbnail">
-                                <a href="art.php">
-                                    <img class="img-responsive" src="images/art/6x4/youAreATourist.png">
+                                <a href="art.php?id=15">
+                                    <img class="img-responsive" src="images/art/6x4/You Are A Tourist.png">
                                     <div class="caption">
                                         <p><strong>You Are A Tourist</strong>
                                     </div>
@@ -224,8 +221,8 @@
 
                         <div class="col-xs-12 col-sm-6 col-md-6">
                             <div class="thumbnail">
-                                <a href="art.php">
-                                    <img class="img-responsive" src="images/art/6x4/untitled.png">
+                                <a href="art.php?id=16">
+                                    <img class="img-responsive" src="images/art/6x4/Untitled.png">
                                     <div class="caption">
                                         <p><strong>Untitled</strong>
                                     </div>
