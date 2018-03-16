@@ -14,7 +14,7 @@
             <div class="col-md-5 col-md-offset-1">
                 <div class="row">
                     <div class="col-xs-12 icon-group">
-                        <span class="icon-text"><img class="icon" src="images/icons/instagram.svg"> @nadineibay</span>
+                        <span class="icon-text"><img class="icon" src="images/icons/instagram.svg"> <a class="a-dark" href="https://www.instagram.com/nadineibay/" target="_new">@nadineibay</a></span>
                     </div>
                 </div>
                 <form id="message-form" method="POST" action="phpScripts/contact.php">
