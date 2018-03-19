@@ -11,13 +11,10 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-12">
-                <img class="img img-responsive center-block" src="images/navBar/logowt.png" />
+                <img class="img img-responsive center-block" src="images/index/logoa.gif" />
                 <a href="home.php" class="btn btn-lg btn-transparent mar-top-lg" role="button">Enter Site</a>
             </div>
         </div>
-    </div>
-    <div class="background-image">
-        <img src="/images/index/bg.jpg" width="100%" height="100%">
     </div>
 </body>
 </html>
