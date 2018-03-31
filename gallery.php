@@ -17,19 +17,19 @@
             </div>
 
             <div class="col-sm-12 col-md-7 col-md-offset-1">
-                <img class="img-rounded pad-left-xs pad-right-xs mar-top-sm col-sm-12 img-responsive" src="images\gallery\original\bg_c.jpg">
+                <img class="img-rounded pad-left-xs pad-right-xs mar-top-sm col-sm-12 img-responsive" src="images\gallery\bg_c.jpg">
                 <img class="img-rounded pad-left-xs pad-right-xs mar-top-sm col-sm-6 img-responsive pull-left" src="images\gallery\11_c.jpg">
-                <img class="img-rounded pad-left-xs pad-right-xs mar-top-sm col-sm-6 img-responsive pull-right" src="images\gallery\original\3.jpg">
+                <img class="img-rounded pad-left-xs pad-right-xs mar-top-sm col-sm-6 img-responsive pull-right" src="images\gallery\original\2.jpg">
                 <img class="img-rounded pad-left-xs pad-right-xs mar-top-sm col-sm-6 img-responsive pull-right" src="images\gallery\6.jpg">
                 <img class="img-rounded pad-left-xs pad-right-xs mar-top-sm col-sm-6 img-responsive pull-left" src="images\gallery\1.jpg">
-                <img class="img-rounded pad-left-xs pad-right-xs mar-top-sm col-sm-6 img-responsive pull-right" src="images\gallery\original\9.jpg">
-                <img class="img-rounded pad-left-xs pad-right-xs mar-top-sm col-sm-6 img-responsive pull-right" src="images\gallery\7.jpg">
-                <img class="img-rounded pad-left-xs pad-right-xs mar-top-sm col-sm-6 img-responsive pull-left" src="images\gallery\8.jpg">
-                <img class="img-rounded pad-left-xs pad-right-xs mar-top-sm col-sm-6 img-responsive pull-right" src="images\gallery\original\2.jpg">
-                <img class="img-rounded pad-left-xs pad-right-xs mar-top-sm col-sm-6 img-responsive pull-left" src="images\gallery\original\5.jpg">
-                <img class="img-rounded pad-left-xs pad-right-xs mar-top-sm col-sm-6 img-responsive pull-right" src="images\gallery\original\3.jpg">
-                <img class="img-rounded pad-left-xs pad-right-xs mar-top-sm col-sm-6 img-responsive pull-left" src="images\gallery\4.jpg">
+                <img class="img-rounded pad-left-xs pad-right-xs mar-top-sm col-sm-6 img-responsive pull-right" src="images\gallery\9.jpg">
+                <img class="img-rounded pad-left-xs pad-right-xs mar-top-sm col-sm-6 img-responsive pull-right" src="images\gallery\8.jpg">
+                <img class="img-rounded pad-left-xs pad-right-xs mar-top-sm col-sm-6 img-responsive pull-left" src="images\gallery\7.jpg">
+                <img class="img-rounded pad-left-xs pad-right-xs mar-top-sm col-sm-12 img-responsive pull-left" src="images\gallery\original\3.jpg">
+                <img class="img-rounded pad-left-xs pad-right-xs mar-top-sm col-sm-6 img-responsive pull-right" src="images\gallery\4.jpg">
                 <img class="img-rounded pad-left-xs pad-right-xs mar-top-sm col-sm-6 img-responsive pull-right" src="images\gallery\original\10.jpg">
+                <img class="img-rounded pad-left-xs pad-right-xs mar-top-sm col-sm-6 img-responsive pull-left" src="images\gallery\12.jpg">
+                <img class="img-rounded pad-left-xs pad-right-xs mar-top-sm col-sm-6 img-responsive pull-left" src="images\gallery\original\5.jpg">
             </div>
 
             <div class="col-md-4 hidden-xs hiddem-sm visible-md visible-lg">

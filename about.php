@@ -11,8 +11,9 @@
     <div class="container-fluid col-sm-offset-2">
         <h2 class="center uppercase">About the Artist</h2>
         <div class="row">
-            <div class="col-xs-8 col-xs-offset-2 col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4">
-                <img class="img-responsive img-circle" src="images/about.jpg">
+        <!-- <div class="col-xs-8 col-xs-offset-2 col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4"> -->
+            <div class="col-xs-12 col-md-10 col-md-offset-1">
+                <img class="img-responsive" src="images/about2.jpg">
             </div>
             
             <div class="col-xs-12 col-md-10 col-md-offset-1 mar-top-lg">

@@ -13,7 +13,7 @@
         
         <div class="row">
             <div class="col-xs-12 col-md-10 col-md-offset-1 mar-bot-md">
-                <p>Art is not only healing but a primal expression of the soul. Integrating the frequencies of butterflies, crystals, pressed flowers, color, glitter, white magic and channeling streams of consciousness, this artwork was created to bring forth powerful healing expressions infused with vibration-raising awareness. Each piece is a unique original, being the only one of its kind in existence. Vintage gold frames have been hand collected from antique stores and used to hold each artistic expression. The repurposed frames represent the human body, which our souls inhabit as vessels through reincarnation. Hang an enchanted piece of carefully curated healing magic within the walls of your own home.
+                <p>A various display of collection of works painted and curated by Nadine Ibay.
                 <ul class="nav nav-tabs">
                     <li class="active"><a data-toggle="tab" href="#fourx4">4x4</a></li>
                     <li><a data-toggle="tab" href="#fourx6">4x6</a></li>
@@ -24,6 +24,7 @@
             <div class="col-xs-12 col-md-10 col-md-offset-1 mar-bot-md">
                 <div class="tab-content">
                     <div id="fourx4" class="tab-pane fade in active">
+                        <h2>4x4</h2>
                         <div class="col-xs-12 col-sm-6 col-md-4">
                             <div class="thumbnail">
                                 <a href="art.php?id=1">
@@ -63,9 +64,9 @@
                         <div class="col-xs-12 col-sm-6 col-md-4">
                             <div class="thumbnail">
                                 <a href="art.php?id=4">
-                                    <img class="img-responsive" src="images/art/4x4/Cult.png">
+                                    <img class="img-responsive" src="images/art/4x4/Moonrise Kingdom.png">
                                     <div class="caption">
-                                        <p><strong>Cult</strong>
+                                        <p><strong>Moonrise Kingdom</strong>
                                     </div>
                                 </a>
                             </div>
@@ -74,9 +75,9 @@
                         <div class="col-xs-12 col-sm-6 col-md-4">
                             <div class="thumbnail">
                                 <a href="art.php?id=5">
-                                    <img class="img-responsive" src="images/art/4x4/Me.png">
+                                    <img class="img-responsive" src="images/art/4x4/Ready or Not.png">
                                     <div class="caption">
-                                        <p><strong>Me</strong>
+                                        <p><strong>Ready or Not</strong>
                                     </div>
                                 </a>
                             </div>
@@ -96,9 +97,9 @@
                         <div class="col-xs-12 col-sm-6 col-md-4">
                             <div class="thumbnail">
                                 <a href="art.php?id=7">
-                                    <img class="img-responsive" src="images/art/4x4/The Ice Is Getting Thinner.png">
+                                    <img class="img-responsive" src="images/art/4x4/Another Night in Mars.png">
                                     <div class="caption">
-                                        <p><strong>The Ice Is Getting Thinner</strong>
+                                        <p><strong>Another Night in Mars</strong>
                                     </div>
                                 </a>
                             </div>
@@ -128,6 +129,18 @@
                     </div> <!-- End of 4x4 tab -->
 
                     <div id="fourx6" class="tab-pane fade">
+                        <h2>4x6</h2>
+                        <div class="col-xs-12 col-sm-6 col-md-4">
+                            <div class="thumbnail">
+                                <a href="art.php?id=12">
+                                    <img class="img-responsive" src="images/art/4x6/We Looked Like Giants.png">
+                                    <div class="caption">
+                                        <p><strong>We Looked Like Giants</strong>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+
                         <div class="col-xs-12 col-sm-6 col-md-4">
                             <div class="thumbnail">
                                 <a href="mural.php?id=10">
@@ -164,6 +177,28 @@
 
                         <div class="col-xs-12 col-sm-6 col-md-4">
                             <div class="thumbnail">
+                                <a href="art.php?id=17">
+                                    <img class="img-responsive" src="images/art/4x6/Untitled (1).png">
+                                    <div class="caption">
+                                        <p><strong>Untitled (1)</strong>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        
+                        <div class="col-xs-12 col-sm-6 col-md-4">
+                            <div class="thumbnail">
+                                <a href="art.php?id=21">
+                                    <img class="img-responsive" src="images/art/4x6/Untitled (5).png">
+                                    <div class="caption">
+                                        <p><strong>Untitled (5)</strong>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="col-xs-12 col-sm-6 col-md-4">
+                            <div class="thumbnail">
                                 <a href="art.php?id=11">
                                     <img class="img-responsive" src="images/art/4x6/Candlxs.png">
                                     <div class="caption">
@@ -175,23 +210,24 @@
 
                         <div class="col-xs-12 col-sm-6 col-md-4">
                             <div class="thumbnail">
-                                <a href="art.php?id=12">
-                                    <img class="img-responsive" src="images/art/4x6/We Looked Like Giants.png">
+                                <a href="art.php?id=18">
+                                    <img class="img-responsive" src="images/art/4x6/Untitled (2).png">
                                     <div class="caption">
-                                        <p><strong>We Looked Like Giants</strong>
+                                        <p><strong>Untitled (2)</strong>
                                     </div>
                                 </a>
                             </div>
-                        </div>
+                        </div>                        
                     </div> <!-- End of 4x6 tab -->
 
                     <div id="sixx4" class="tab-pane fade">
+                        <h2>6x4</h2>
                         <div class="col-xs-12 col-sm-6 col-md-6">
                             <div class="thumbnail">
-                                <a href="art.php?id=13">
-                                    <img class="img-responsive" src="images/art/6x4/A World Alone.png">
+                                <a href="art.php?id=16">
+                                    <img class="img-responsive" src="images/art/6x4/Untitled.png">
                                     <div class="caption">
-                                        <p><strong>A World Alone</strong>
+                                        <p><strong>Untitled</strong>
                                     </div>
                                 </a>
                             </div>
@@ -199,10 +235,10 @@
 
                         <div class="col-xs-12 col-sm-6 col-md-6">
                             <div class="thumbnail">
-                                <a href="art.php?id=14">
-                                    <img class="img-responsive" src="images/art/6x4/Back To The Woods.png">
+                                <a href="art.php?id=19">
+                                    <img class="img-responsive" src="images/art/6x4/Untitled (3).png">
                                     <div class="caption">
-                                        <p><strong>Back to The Woods</strong>
+                                        <p><strong>Untitled (3)</strong>
                                     </div>
                                 </a>
                             </div>
@@ -221,14 +257,37 @@
 
                         <div class="col-xs-12 col-sm-6 col-md-6">
                             <div class="thumbnail">
-                                <a href="art.php?id=16">
-                                    <img class="img-responsive" src="images/art/6x4/Untitled.png">
+                                <a href="art.php?id=14">
+                                    <img class="img-responsive" src="images/art/6x4/Back To The Woods.png">
                                     <div class="caption">
-                                        <p><strong>Untitled</strong>
+                                        <p><strong>Back to The Woods</strong>
                                     </div>
                                 </a>
                             </div>
                         </div>
+
+                        <div class="col-xs-12 col-sm-6 col-md-6">
+                            <div class="thumbnail">
+                                <a href="art.php?id=13">
+                                    <img class="img-responsive" src="images/art/6x4/A World Alone.png">
+                                    <div class="caption">
+                                        <p><strong>A World Alone</strong>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="col-xs-12 col-sm-6 col-md-6">
+                            <div class="thumbnail">
+                                <a href="art.php?id=20">
+                                    <img class="img-responsive" src="images/art/6x4/Untitled (4).png">
+                                    <div class="caption">
+                                        <p><strong>Untitled (4)</strong>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+
                     </div> <!-- End of 6x4 tab -->
                 </div> <!-- End of tab-content div -->
             </div> <!-- End of outer "col" div (containing the items) -->

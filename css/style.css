@@ -119,8 +119,12 @@ textarea{
     margin-bottom: 40px;
 }
 
+.mar-top-none{
+    margin-top: 0 !important;
+}
+
 .mar-top-sm{
-    margin-top: 10px;
+    margin-top: 10px !important;
 }
 
 .mar-top-md{
