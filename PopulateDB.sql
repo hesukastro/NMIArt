@@ -35,11 +35,11 @@ INSERT INTO `artworks` VALUES
 
 -- Showcases
 
-INSERT INTO `showcase` VALUES 
-(NULL, 'me', 'img-rounded pad-left-xs pad-right-xs mar-top-sm col-sm-12 img-responsive'),
-(NULL, 'the ballad of me and my brain', 'img-rounded pad-left-xs pad-right-xs mar-top-sm col-sm-12 img-responsive'),
-(NULL, 'the ice is getting thinner', 'img-rounded pad-left-xs pad-right-xs mar-top-sm col-sm-12 img-responsive'),
-(NULL, 'the sound', 'img-rounded pad-left-xs pad-right-xs mar-top-sm col-sm-6 img-responsive'),
-(NULL, 'the sound', 'img-rounded pad-left-xs pad-right-xs mar-top-sm col-sm-6 img-responsive'),
-(NULL, 'you', 'img-rounded pad-left-xs pad-right-xs mar-top-sm col-sm-12 img-responsive'),
-(NULL, 'you are a tourist', 'img-rounded pad-left-xs pad-right-xs mar-top-sm col-sm-12 img-responsive');
+-- INSERT INTO `showcase` VALUES 
+-- (NULL, 'me', 'img-rounded pad-left-xs pad-right-xs mar-top-sm col-sm-12 img-responsive'),
+-- (NULL, 'the ballad of me and my brain', 'img-rounded pad-left-xs pad-right-xs mar-top-sm col-sm-12 img-responsive'),
+-- (NULL, 'the ice is getting thinner', 'img-rounded pad-left-xs pad-right-xs mar-top-sm col-sm-12 img-responsive'),
+-- (NULL, 'the sound', 'img-rounded pad-left-xs pad-right-xs mar-top-sm col-sm-6 img-responsive'),
+-- (NULL, 'the sound', 'img-rounded pad-left-xs pad-right-xs mar-top-sm col-sm-6 img-responsive'),
+-- (NULL, 'you', 'img-rounded pad-left-xs pad-right-xs mar-top-sm col-sm-12 img-responsive'),
+-- (NULL, 'you are a tourist', 'img-rounded pad-left-xs pad-right-xs mar-top-sm col-sm-12 img-responsive');
