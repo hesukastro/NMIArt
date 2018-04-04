@@ -178,9 +178,9 @@
                         <div class="col-xs-12 col-sm-6 col-md-4">
                             <div class="thumbnail">
                                 <a href="art.php?id=17">
-                                    <img class="img-responsive" src="images/art/4x6/Untitled (1).png">
+                                    <img class="img-responsive" src="images/art/4x6/The Sound of Reverie Pt. II.png">
                                     <div class="caption">
-                                        <p><strong>Untitled (1)</strong>
+                                        <p><strong>The Sound of Reverie Pt. II</strong>
                                     </div>
                                 </a>
                             </div>
@@ -189,9 +189,9 @@
                         <div class="col-xs-12 col-sm-6 col-md-4">
                             <div class="thumbnail">
                                 <a href="art.php?id=21">
-                                    <img class="img-responsive" src="images/art/4x6/Untitled (5).png">
+                                    <img class="img-responsive" src="images/art/4x6/The Sound of Reverie (Epilogue).png">
                                     <div class="caption">
-                                        <p><strong>Untitled (5)</strong>
+                                        <p><strong>The Sound of Reverie (Epilogue)</strong>
                                     </div>
                                 </a>
                             </div>
@@ -211,9 +211,9 @@
                         <div class="col-xs-12 col-sm-6 col-md-4">
                             <div class="thumbnail">
                                 <a href="art.php?id=18">
-                                    <img class="img-responsive" src="images/art/4x6/Untitled (2).png">
+                                    <img class="img-responsive" src="images/art/4x6/The Sound of Reverie.png">
                                     <div class="caption">
-                                        <p><strong>Untitled (2)</strong>
+                                        <p><strong>The Sound of Reverie</strong>
                                     </div>
                                 </a>
                             </div>
@@ -225,9 +225,9 @@
                         <div class="col-xs-12 col-sm-6 col-md-6">
                             <div class="thumbnail">
                                 <a href="art.php?id=16">
-                                    <img class="img-responsive" src="images/art/6x4/Untitled.png">
+                                    <img class="img-responsive" src="images/art/6x4/Television Romance.png">
                                     <div class="caption">
-                                        <p><strong>Untitled</strong>
+                                        <p><strong>Television Romance</strong>
                                     </div>
                                 </a>
                             </div>
@@ -236,9 +236,9 @@
                         <div class="col-xs-12 col-sm-6 col-md-6">
                             <div class="thumbnail">
                                 <a href="art.php?id=19">
-                                    <img class="img-responsive" src="images/art/6x4/Untitled (3).png">
+                                    <img class="img-responsive" src="images/art/6x4/Sit Next To Me.png">
                                     <div class="caption">
-                                        <p><strong>Untitled (3)</strong>
+                                        <p><strong>Sit Next To Me</strong>
                                     </div>
                                 </a>
                             </div>
@@ -280,9 +280,9 @@
                         <div class="col-xs-12 col-sm-6 col-md-6">
                             <div class="thumbnail">
                                 <a href="art.php?id=20">
-                                    <img class="img-responsive" src="images/art/6x4/Untitled (4).png">
+                                    <img class="img-responsive" src="images/art/6x4/Garden City.png">
                                     <div class="caption">
-                                        <p><strong>Untitled (4)</strong>
+                                        <p><strong>Garden City</strong>
                                     </div>
                                 </a>
                             </div>
