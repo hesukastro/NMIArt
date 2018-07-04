@@ -13,7 +13,7 @@
         <div class="row">
         <!-- <div class="col-xs-8 col-xs-offset-2 col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4"> -->
             <div class="col-xs-12 col-md-10 col-md-offset-1">
-                <img class="img-responsive" src="images/about2.jpg">
+                <img class="img-responsive img-800 center" src="images/about.jpg">
             </div>
             
             <div class="col-xs-12 col-md-10 col-md-offset-1 mar-top-lg">

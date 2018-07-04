@@ -79,6 +79,11 @@ textarea{
     font-size: 1.5em;
 }
 
+.img-800{
+    margin: 0 auto;
+    max-width: 800px;
+}
+
 .img-ver-responsive{
     height: 50px;
 }
